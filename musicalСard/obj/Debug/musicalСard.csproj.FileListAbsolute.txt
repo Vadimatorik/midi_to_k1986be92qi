@@ -1,0 +1,27 @@
+C:\musicalСard\musicalСard\bin\Debug\musicalСard.exe.config
+C:\musicalСard\musicalСard\bin\Debug\musicalСard.exe
+C:\musicalСard\musicalСard\bin\Debug\musicalСard.pdb
+C:\musicalСard\musicalСard\obj\Debug\musicalСard.csprojResolveAssemblyReference.cache
+C:\musicalСard\musicalСard\obj\Debug\musicalСard.Properties.Resources.resources
+C:\musicalСard\musicalСard\obj\Debug\musicalСard.csproj.GenerateResource.Cache
+C:\musicalСard\musicalСard\obj\Debug\musicalСard.exe
+C:\musicalСard\musicalСard\obj\Debug\musicalСard.pdb
+C:\Users\Эльвира\Desktop\Новая папка\musicalСard\musicalСard\bin\Debug\musicalСard.exe.config
+C:\Users\Эльвира\Desktop\Новая папка\musicalСard\musicalСard\obj\Debug\musicalСard.exe
+C:\Users\Эльвира\Desktop\Новая папка\musicalСard\musicalСard\obj\Debug\musicalСard.pdb
+C:\Users\Эльвира\Desktop\Новая папка\musicalСard\musicalСard\obj\Debug\musicalСard.csprojResolveAssemblyReference.cache
+C:\Users\Эльвира\Desktop\Новая папка\musicalСard\musicalСard\obj\Debug\musicalСard.Form1.resources
+C:\Users\Эльвира\Desktop\Новая папка\musicalСard\musicalСard\obj\Debug\musicalСard.Properties.Resources.resources
+C:\Users\Эльвира\Desktop\Новая папка\musicalСard\musicalСard\obj\Debug\musicalСard.csproj.GenerateResource.Cache
+C:\Users\Эльвира\Desktop\Новая папка\musicalСard\musicalСard\bin\Debug\musicalСard.exe
+C:\Users\Эльвира\Desktop\Новая папка\musicalСard\musicalСard\bin\Debug\musicalСard.pdb
+C:\Users\Эльвира\Desktop\musical‘ard\musicalСard\musicalСard\bin\Debug\musicalСard.exe.config
+C:\Users\Эльвира\Desktop\musical‘ard\musicalСard\musicalСard\obj\Debug\musicalСard.exe
+C:\Users\Эльвира\Desktop\musical‘ard\musicalСard\musicalСard\obj\Debug\musicalСard.pdb
+C:\Users\Эльвира\Desktop\musical‘ard\musicalСard\musicalСard\obj\Debug\musicalСard.csprojResolveAssemblyReference.cache
+C:\Users\Эльвира\Desktop\musical‘ard\musicalСard\musicalСard\obj\Debug\musicalСard.Properties.Resources.resources
+C:\Users\Эльвира\Desktop\musical‘ard\musicalСard\musicalСard\obj\Debug\musicalСard.csproj.GenerateResource.Cache
+C:\Users\Эльвира\Desktop\musical‘ard\musicalСard\musicalСard\bin\Debug\musicalСard.exe
+C:\Users\Эльвира\Desktop\musical‘ard\musicalСard\musicalСard\bin\Debug\musicalСard.pdb
+C:\Users\Эльвира\Desktop\musical‘ard\musicalСard\musicalСard\obj\Debug\musicalСard.MIDItoК1986ВЕ92QI.resources
+C:\musicalСard\musicalСard\obj\Debug\musicalСard.MIDItoК1986ВЕ92QI.resources
